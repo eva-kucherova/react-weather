@@ -1,0 +1,31 @@
+.MainTemp .weather {
+  display: inline-block;
+  text-align: center;
+  line-height: 1.25;
+  padding: 22px 36px;
+  background: rgba(238, 210, 197, 0.6);
+  border: 1px solid rgb(238, 210, 197);
+  border-radius: 200px 200px 100px 100px;
+}
+.MainTemp .main-icon {
+  position: relative;
+  top: -16px;
+}
+.MainTemp .main-temp {
+  font-family: 'Arima', cursive;
+  font-size: 64px;
+  color: #8f140e;
+  text-shadow: 2px 4px 2px rgb(238, 210, 197);
+}
+.MainTemp .units {
+  font-size: 18px;
+  color: #8f140e;
+  position: relative;
+  top: -32px;
+}
+.MainTemp .central-header {
+  text-align: center;
+  font-family: 'Arima', cursive;
+  color: whitesmoke;
+  text-shadow: 1px 2px 1px #08310d;
+}
