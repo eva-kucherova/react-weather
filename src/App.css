@@ -5,3 +5,9 @@
   color: whitesmoke;
   text-shadow: 1px 2px 1px #08310d;
 }
+.App .forecast-header {
+  text-align: center;
+  font-family: 'Arima', cursive;
+  color: whitesmoke;
+  text-shadow: 1px 2px 1px #08310d;
+}

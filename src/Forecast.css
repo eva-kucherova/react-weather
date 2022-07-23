@@ -9,12 +9,7 @@
   border: 1px solid rgb(238, 210, 197);
   border-radius: 10px;
 }
-.Forecast .forecast-header {
-  text-align: center;
-  font-family: 'Arima', cursive;
-  color: whitesmoke;
-  text-shadow: 1px 2px 1px #08310d;
-}
+
 .forecast-day {
   font-family: 'Arima', cursive;
   color: #8f140e;

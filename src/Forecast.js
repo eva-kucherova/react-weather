@@ -3,7 +3,6 @@ import './Forecast.css';
 export default function Forecast() {
   return (
     <div className='Forecast'>
-      <h2 class='forecast-header'>Weather forecast for the coming days</h2>
       <div class='forecast-block'>
         <p class='forecast-day'>
           <strong>Monday</strong>

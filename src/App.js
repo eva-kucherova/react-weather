@@ -12,7 +12,9 @@ function App() {
       <Header />
       <SearchForm />
       <MainTemp />
+      <h2 class='forecast-header'>Weather forecast for the coming days</h2>
       <Forecast />
+
       <Footer />
     </div>
   );
