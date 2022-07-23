@@ -1,5 +1,7 @@
 .MainTemp .weather {
-  display: inline-block;
+  display: block;
+  max-width: 250px;
+  margin: 0 auto;
   text-align: center;
   line-height: 1.25;
   padding: 22px 36px;
@@ -7,6 +9,7 @@
   border: 1px solid rgb(238, 210, 197);
   border-radius: 200px 200px 100px 100px;
 }
+
 .MainTemp .main-icon {
   position: relative;
   top: -16px;

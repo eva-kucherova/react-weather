@@ -1,5 +1,7 @@
 .Forecast .forecast-block {
-  display: inline-block;
+  display: block;
+  max-width: 100px;
+  margin: 0 auto;
   text-align: center;
   line-height: 0.75;
   padding: 4px 12px;
